@@ -1,2 +1,16 @@
-# Cricket-Player-Performance-Prediction
-This project predicts the number of runs a cricket player is likely to score in a match using historical match and player data. It applies machine learning, specifically the Light Gradient Boosting Machine (LGBM), to analyze player stats, match conditions, and contextual features for accurate predictions.
+# Cricket Player Performance Prediction
+
+## Live Demo
+https://cricket-player-performance-prediction.streamlit.app/
+
+## Description
+This project predicts cricket player performance using Machine Learning.
+
+## Tech Stack
+- Python
+- Streamlit
+- Machine Learning
+
+## Run Locally
+pip install -r requirements.txt
+streamlit run app.py
